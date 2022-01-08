@@ -8,12 +8,16 @@ Semester 1 21/22 <br><br>
 Group E members
 </p>
 
-| Name | Matric No. | Email |
-| :---: | :---: | :---: |
-| Howlader Md Ikhtiar Uddin | 1834619 | mdikhtiaruddinhowlader@gmail.com|
-| Nurul Zahidah binti Jamaludin |2011130| zahidah03@gmail.com|
-|Nur Farah Amira binti Mohd Rafidi |2011132 |nurfaramira@gmail.com|
-|Nur Raimi binti Rahim |2014632 |nurraimirahim@gmail.com |
+<center>
+  
+| Name                             | Matric No. | Email                           |
+| :-------------------------------:| :--------: | :-----------------------------: |
+| Howlader Md Ikhtiar Uddin        |1834619     | mdikhtiaruddinhowlader@gmail.com|
+| Nurul Zahidah binti Jamaludin    |2011130     | zahidah03@gmail.com             |
+|Nur Farah Amira binti Mohd Rafidi |2011132     |nurfaramira@gmail.com            |
+|Nur Raimi binti Rahim             |2014632     |nurraimirahim@gmail.com          |
+  
+</center>
 
 <p align="center">
 Supervised by Dr. Abdul Rafiez bin Abdul Raziff
