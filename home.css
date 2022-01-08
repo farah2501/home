@@ -145,3 +145,8 @@ div.places-block input {
   margin: 0 auto;
   color: black;
  }
+
+@media screen and (max-width: 600px) {
+  .elem-group, .elem-group.inlined, .places-block, label, .elem-group.inlined input, .places-block input, .coupon, .transbox1, .transbox1 p, .container1, .container, .transbox, .transbox p {
+    width: 85%; 
+  }
